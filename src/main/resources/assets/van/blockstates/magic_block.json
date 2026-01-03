@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "van:block/magic_block"
+    }
+  }
+}

@@ -12,6 +12,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 import net.vanilama.van.Van;
+import net.vanilama.van.block.custom.MagicBlock;
 
 public class ModBlocks {
     public static final Block PINK_GARNET_BLOCK = registerBlock("pink_garnet_block",
@@ -21,6 +22,18 @@ public class ModBlocks {
     public static final Block RAW_PINK_GARNET_BLOCK = registerBlock("raw_pink_garnet_block",
             new Block(AbstractBlock.Settings.create().strength(1.0F)
                     .requiresTool().sounds(BlockSoundGroup.AMETHYST_BLOCK).mapColor(MapColor.PINK)));
+
+    public static final Block PINK_GARNET_ORE = registerBlock("pink_garnet_ore",
+            new Block(AbstractBlock.Settings.create().strength(1.0F)
+                    .requiresTool().sounds(BlockSoundGroup.STONE).mapColor(MapColor.PINK)));
+
+    public static final Block PINK_GARNET_DEEPSLATE_ORE = registerBlock("magic_block",
+            new MagicBlock(AbstractBlock.Settings.create().strength(1.0F)
+                    .requiresTool()));
+
+    public static final Block MAGIC_BLOCK = registerBlock("pink_garnet_deepslate_ore",
+            new Block(AbstractBlock.Settings.create().strength(1.0F)
+                    .requiresTool().sounds(BlockSoundGroup.DEEPSLATE).mapColor(MapColor.PINK)));
 
     //Blocks above here
 
@@ -46,6 +59,8 @@ public class ModBlocks {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(fabricItemGroupEntries -> {
             fabricItemGroupEntries.add(ModBlocks.PINK_GARNET_BLOCK);
             fabricItemGroupEntries.add(ModBlocks.RAW_PINK_GARNET_BLOCK);
+            fabricItemGroupEntries.add(ModBlocks.PINK_GARNET_ORE);
+            fabricItemGroupEntries.add(ModBlocks.PINK_GARNET_DEEPSLATE_ORE);
         });
     }
 }

@@ -1,9 +1,15 @@
 {
   "item.van.pink_garnet": "Pink Garnet",
   "item.van.raw_pink_garnet": "Raw Pink Garnet",
+  "item.van.chisel": "Chisel",
 
   "block.van.pink_garnet_block": "Block of Pink Garnet",
   "block.van.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+
+  "block.van.pink_garnet_ore": "Pink Garnet Ore",
+  "block.van.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+
+  "block.van.magic_block": "Magic Block",
 
   "itemgroup.vanilama.pink_garnet_items": "Pink Garnet Items",
   "itemgroup.vanilama.pink_garnet_blocks": "Pink Garnet Blocks"

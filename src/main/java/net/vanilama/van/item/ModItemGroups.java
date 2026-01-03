@@ -1,6 +1,7 @@
 package net.vanilama.van.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
+import net.minecraft.block.Blocks;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
@@ -18,6 +19,8 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.PINK_GARNET);
                         entries.add(ModItems.RAW_PINK_GARNET);
+
+                        entries.add(ModItems.CHISEL);
                     }).build());
 
 //tab group start
@@ -29,6 +32,11 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModBlocks.PINK_GARNET_BLOCK);
                         entries.add(ModBlocks.RAW_PINK_GARNET_BLOCK);
+
+                        entries.add(ModBlocks.PINK_GARNET_ORE);
+                        entries.add(ModBlocks.PINK_GARNET_DEEPSLATE_ORE);
+
+                        entries.add(ModBlocks.MAGIC_BLOCK);
                     }).build());
 
 // tab group end

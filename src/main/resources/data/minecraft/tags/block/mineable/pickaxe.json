@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "van:pink_garnet_block",
+    "van:raw_pink_garnet_block",
+    "van:pink_garnet_ore",
+    "van:pink_garnet_deepslate_ore"
+  ]
+}

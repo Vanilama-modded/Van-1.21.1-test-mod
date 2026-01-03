@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "van:pink_garnet"
+    }
+  },
+  "result": {
+    "id": "van:pink_garnet_block",
+    "count": 1
+  }
+}

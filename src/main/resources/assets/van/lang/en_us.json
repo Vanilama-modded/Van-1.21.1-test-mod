@@ -3,5 +3,8 @@
   "item.van.raw_pink_garnet": "Raw Pink Garnet",
 
   "block.van.pink_garnet_block": "Block of Pink Garnet",
-  "block.van.raw_pink_garnet_block": "Block of Raw Pink Garnet"
+  "block.van.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+
+  "itemgroup.vanilama.pink_garnet_items": "Pink Garnet Items",
+  "itemgroup.vanilama.pink_garnet_blocks": "Pink Garnet Blocks"
 }

@@ -24,6 +24,12 @@ public class ModBlocks {
 
     //Blocks above here
 
+    /*
+    * Hit shift 2 times than search for blocks
+    * include non project items than open blocks.java
+    * list of all blocks for 1.21.1
+     */
+
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
         return Registry.register(Registries.BLOCK, Identifier.of(Van.MOD_ID, name), block);

@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "van",
+	"version": "${version}",
+	"name": "Van",
+	"description": "Van's test mod for 1.21.1",
+	"authors": [
+		"Vanilama"
+	],
+	"contact": {
+		"homepage": "https://vanilama.vercel.app/",
+		"sources": "https://github.com/Vanilama-modded/Van-s-1.21.1-test-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/van/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.vanilama.van.Van"
+		],
+		"fabric-datagen": [
+			"net.vanilama.van.VanDataGenerator"
+		],
+		"client": [
+			"net.vanilama.van.VanClient"
+		]
+	},
+	"mixins": [
+		"van.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

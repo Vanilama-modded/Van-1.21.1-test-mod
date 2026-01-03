@@ -2,6 +2,7 @@ package net.vanilama.van;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.vanilama.van.block.ModBlocks;
 import net.vanilama.van.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -13,6 +14,7 @@ public class Van implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerBlocks();
 
 	}
 }

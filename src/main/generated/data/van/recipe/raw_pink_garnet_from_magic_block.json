@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "van:pink_garnet_deepslate_ore"
+    }
+  ],
+  "result": {
+    "count": 32,
+    "id": "van:raw_pink_garnet"
+  }
+}

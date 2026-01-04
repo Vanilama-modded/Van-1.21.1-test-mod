@@ -23,6 +23,8 @@ public class ModItemGroups {
                         entries.add(ModItems.CHISEL);
                         entries.add(ModItems.CAULIFLOWER);
                         entries.add(ModItems.STARLIGHT_ASHES);
+
+                        entries.add(ModItems.STAINLESS_STEEL_INGOT);
                     }).build());
 
 //tab group start
@@ -52,6 +54,9 @@ public class ModItemGroups {
 
                         entries.add(ModBlocks.PINK_GARNET_DOOR);
                         entries.add(ModBlocks.PINK_GARNET_TRAPDOOR);
+
+
+                        entries.add(ModBlocks.STAINLESS_STEEL_BLOCK);
                     }).build());
 
 // tab group end

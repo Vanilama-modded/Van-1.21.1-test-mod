@@ -29,6 +29,8 @@ public class ModItems {
 
     public static final Item STARLIGHT_ASHES = registerItem("starlight_ashes", new Item(new Item.Settings()));
 
+    public static final Item STAINLESS_STEEL_INGOT = registerItem("stainless_steel_ingot", new Item(new Item.Settings()));
+
     //Items above here
 
     private static Item registerItem(String name, Item item) {

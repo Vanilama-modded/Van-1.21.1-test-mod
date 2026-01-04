@@ -18,9 +18,14 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.MAGIC_BLOCK);
 
         BlockStateModelGenerator.BlockTexturePool pinkGarnetPool = blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.PINK_GARNET_BLOCK);
+
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.RAW_PINK_GARNET_BLOCK);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.PINK_GARNET_ORE);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.PINK_GARNET_DEEPSLATE_ORE);
+
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STAINLESS_STEEL_BLOCK);
+
+
 
         pinkGarnetPool.stairs(ModBlocks.PINK_GARNET_STAIRS);
         pinkGarnetPool.slab(ModBlocks.PINK_GARNET_SLAB);
@@ -34,6 +39,7 @@ public class ModModelProvider extends FabricModelProvider {
 
         blockStateModelGenerator.registerDoor(ModBlocks.PINK_GARNET_DOOR);
         blockStateModelGenerator.registerTrapdoor(ModBlocks.PINK_GARNET_TRAPDOOR);
+
     }
 
     @Override
@@ -44,5 +50,6 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.CAULIFLOWER, Models.GENERATED);
         itemModelGenerator.register(ModItems.CHISEL, Models.GENERATED);
         itemModelGenerator.register(ModItems.STARLIGHT_ASHES, Models.GENERATED);
+        itemModelGenerator.register(ModItems.STAINLESS_STEEL_INGOT, Models.GENERATED);
     }
 }

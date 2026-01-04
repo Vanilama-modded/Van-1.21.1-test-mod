@@ -1,6 +1,6 @@
-// 1.21.1	2026-01-04T16:46:59.1664442	Van/Tags for minecraft:block
+// 1.21.1	2026-01-04T21:12:23.902988	Van/Tags for minecraft:block
 91a9b3153047fdbd4c069db7e16e6969bb465e83 data\minecraft\tags\block\fences.json
 2afcf0b964198fbc652eb848b5b1d17397b64f82 data\minecraft\tags\block\walls.json
 f5f4495664ce9c14bc9016e2de09f726528e4e39 data\minecraft\tags\block\mineable\pickaxe.json
-3dc699592ee8046736c2dfc0eeaaa1d996648a14 data\minecraft\tags\block\needs_iron_tool.json
+0ebba553987a7714586c90278fd4fdd91775f7bf data\minecraft\tags\block\needs_iron_tool.json
 738f68449dc5fa2461b1d1216d536d3a19a081f2 data\minecraft\tags\block\fence_gates.json

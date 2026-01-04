@@ -36,6 +36,9 @@
   "tooltip.van.chisel.shift_down": "This Item Chisels Blocks into Bricks",
   "tooltip.van.chisel": "Press §eShift§r for more Information!",
 
-  "tooltip.van.cauliflower.tooltip": "Light Snack with effect"
+  "tooltip.van.cauliflower.tooltip": "Light Snack with effect",
+
+  "block.van.stainless_steel_block": "Block of Stainless Steel",
+  "item.van.stainless_steel_ingot": "Stainless Steel Ingot"
 
 }

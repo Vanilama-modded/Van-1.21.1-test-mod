@@ -13,6 +13,7 @@ import net.vanilama.van.Van;
 import net.vanilama.van.block.custom.MagicBlock;
 
 public class ModBlocks {
+
     public static final Block PINK_GARNET_BLOCK = registerBlock("pink_garnet_block",
             new Block(AbstractBlock.Settings.create().strength(1.0F)
                     .requiresTool().sounds(BlockSoundGroup.AMETHYST_BLOCK).mapColor(MapColor.PINK)));
@@ -29,9 +30,13 @@ public class ModBlocks {
             new MagicBlock(AbstractBlock.Settings.create().strength(1.0F)
                     .requiresTool()));
 
+
+
     public static final Block MAGIC_BLOCK = registerBlock("pink_garnet_deepslate_ore",
             new Block(AbstractBlock.Settings.create().strength(1.0F)
                     .requiresTool().sounds(BlockSoundGroup.DEEPSLATE).mapColor(MapColor.PINK)));
+
+
 
     public static final Block PINK_GARNET_STAIRS = registerBlock("pink_garnet_stairs",
             new StairsBlock(ModBlocks.PINK_GARNET_BLOCK.getDefaultState(),
@@ -55,6 +60,11 @@ public class ModBlocks {
             new DoorBlock(BlockSetType.IRON, AbstractBlock.Settings.create().strength(2f).requiresTool().nonOpaque()));
     public static final Block PINK_GARNET_TRAPDOOR = registerBlock("pink_garnet_trapdoor",
             new TrapdoorBlock(BlockSetType.IRON, AbstractBlock.Settings.create().strength(2f).requiresTool().nonOpaque()));
+
+
+
+    public static final Block STAINLESS_STEEL_BLOCK = registerBlock("stainless_steel_block",
+            new Block(AbstractBlock.Settings.create().strength(1.0F).requiresTool().sounds(BlockSoundGroup.METAL)));
 
     //Blocks above here
 
@@ -82,6 +92,7 @@ public class ModBlocks {
             fabricItemGroupEntries.add(ModBlocks.RAW_PINK_GARNET_BLOCK);
             fabricItemGroupEntries.add(ModBlocks.PINK_GARNET_ORE);
             fabricItemGroupEntries.add(ModBlocks.PINK_GARNET_DEEPSLATE_ORE);
+            fabricItemGroupEntries.add(ModBlocks.STAINLESS_STEEL_BLOCK);
         });
     }
 }

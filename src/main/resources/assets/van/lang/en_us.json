@@ -2,6 +2,8 @@
   "item.van.pink_garnet": "Pink Garnet",
   "item.van.raw_pink_garnet": "Raw Pink Garnet",
   "item.van.chisel": "Chisel",
+  "item.van.cauliflower": "Cauliflower",
+  "item.van.starlight_ashes": "Starlight Ashes",
 
   "block.van.pink_garnet_block": "Block of Pink Garnet",
   "block.van.raw_pink_garnet_block": "Block of Raw Pink Garnet",
@@ -12,5 +14,12 @@
   "block.van.magic_block": "Magic Block",
 
   "itemgroup.vanilama.pink_garnet_items": "Pink Garnet Items",
-  "itemgroup.vanilama.pink_garnet_blocks": "Pink Garnet Blocks"
+  "itemgroup.vanilama.pink_garnet_blocks": "Pink Garnet Blocks",
+
+  "tooltip.van.magic_block.tooltip": "Magical Block. Try throwing §dPink Garnet§r on it",
+
+  "tooltip.van.chisel.shift_down": "This Item Chisels Blocks into Bricks",
+  "tooltip.van.chisel": "Press §eShift§r for more Information!",
+
+  "tooltip.van.cauliflower.tooltip": "Light Snack with effect"
 }

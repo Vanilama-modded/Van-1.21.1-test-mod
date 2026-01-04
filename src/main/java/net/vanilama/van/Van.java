@@ -2,6 +2,7 @@ package net.vanilama.van;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.vanilama.van.block.ModBlocks;
 import net.vanilama.van.item.ModItemGroups;
 import net.vanilama.van.item.ModItems;
@@ -19,5 +20,6 @@ public class Van implements ModInitializer {
 		ModItems.registerModItems();
 		ModBlocks.registerBlocks();
 
+		FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
 	}
 }

@@ -11,6 +11,7 @@ import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 import net.vanilama.van.Van;
 import net.vanilama.van.block.custom.MagicBlock;
+import net.vanilama.van.block.custom.PinkGarnetLampBlock;
 
 public class ModBlocks {
 
@@ -35,6 +36,11 @@ public class ModBlocks {
     public static final Block MAGIC_BLOCK = registerBlock("pink_garnet_deepslate_ore",
             new Block(AbstractBlock.Settings.create().strength(1.0F)
                     .requiresTool().sounds(BlockSoundGroup.DEEPSLATE).mapColor(MapColor.PINK)));
+
+
+    public static final Block PINK_GARNET_LAMP = registerBlock("pink_garnet_lamp",
+            new PinkGarnetLampBlock(AbstractBlock.Settings.create()
+                    .strength(1.0F).requiresTool().luminance(state -> state.get(PinkGarnetLampBlock.CLICKED)? 15 : 0)));
 
 
 

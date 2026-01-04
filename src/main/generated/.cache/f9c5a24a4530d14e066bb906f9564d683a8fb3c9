@@ -1,4 +1,4 @@
-// 1.21.1	2026-01-04T21:12:23.9049878	Van/Model Definitions
+// 1.21.1	2026-01-04T22:09:06.1126424	Van/Model Definitions
 f3da886e16d9a4cd1ea2595c35749b478cc0d23d assets\van\models\block\pink_garnet_trapdoor_open.json
 d992d4f3788a3eb10efe4587c94dd966e5724b8d assets\van\models\item\cauliflower.json
 232d4e473959ed3ac80c4332e08991bf4b462b02 assets\van\models\item\pink_garnet_pressure_plate.json
@@ -14,6 +14,7 @@ c752a4f15cee1bfaa609c939b8c64d6be23436a6 assets\van\blockstates\pink_garnet_ore.
 625e188c3f90f291410cf04abf18399ec1a22f0c assets\van\models\block\pink_garnet_stairs_outer.json
 940714683cfb7e09831e1176c12b82a50bb4ef21 assets\van\models\item\pink_garnet_fence_gate.json
 a2fef2d39270f49879e1a35f03c02a9712ae4ec7 assets\van\models\block\pink_garnet_door_top_right.json
+733ab8dcfcbede5228e27385d750991437bfd1f2 assets\van\models\item\pink_garnet_lamp.json
 c55d547fdd4d3381d0b7b334adbf0984adc60dd3 assets\van\models\block\pink_garnet_slab_top.json
 e5be6fd119c544ecdb465cbca02a05f5e258f159 assets\van\blockstates\pink_garnet_fence_gate.json
 6e426622c6bb9af83217b24433ac076273fe567b assets\van\models\block\pink_garnet_door_bottom_left.json
@@ -36,6 +37,8 @@ a054bfff9b8b03fa283547a19405f25d1545361f assets\van\models\item\stainless_steel_
 b514dee003a45fd8453479085dbd7beebcd9d656 assets\van\models\block\pink_garnet_door_top_right_open.json
 e3ca01b5b9f14b8c663cbc61df18409a43cc5fbd assets\van\models\item\pink_garnet_ore.json
 d8d66e3ed5cf77ff5400ed4934fa63d3a5261145 assets\van\models\block\pink_garnet_wall_post.json
+01f4d78408d8e1d6e9ace7e3550b86088ef16d99 assets\van\models\block\pink_garnet_lamp_on.json
+bc7714a63f2c36c2fcaed0d2868d2b2dbdd49b31 assets\van\models\block\pink_garnet_lamp.json
 6f00d007050dd6d88893759b4dda420cb8917529 assets\van\models\block\pink_garnet_fence_gate_wall.json
 c3dc75dbb4a4502a020593edc0d183bc0a7a5b4f assets\van\models\item\chisel.json
 70a4365375df2fd1d17b8deebc65f8d1149218fc assets\van\models\block\pink_garnet_stairs.json
@@ -69,6 +72,7 @@ ce8fd58b4195f5eb0f9c4ce6762f5a1ee7f92f50 assets\van\blockstates\pink_garnet_trap
 18c5ff5b3d351aab72f2618b749231690b581050 assets\van\models\block\stainless_steel_block.json
 5e59bd24e1bc8b806b59666b2facbd640c09ccd9 assets\van\models\block\pink_garnet_trapdoor_top.json
 11d83e925686c1fb87837c846675d70a7a1c78b6 assets\van\models\item\pink_garnet_stairs.json
+b4f95e95acf63f61b8f03b4b95909fa6b71471a5 assets\van\blockstates\pink_garnet_lamp.json
 921ebacda6f60f7bbd0b9136acbefdc34e904d79 assets\van\blockstates\pink_garnet_wall.json
 91eaba3012c0d50b1dc849d1f0926fd88afe2e51 assets\van\models\item\pink_garnet_door.json
 5e60b0569fe282bb7b3ad5f1698c9d9d83323d57 assets\van\models\block\pink_garnet_wall_side_tall.json

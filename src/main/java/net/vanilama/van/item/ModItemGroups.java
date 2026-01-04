@@ -57,6 +57,8 @@ public class ModItemGroups {
 
 
                         entries.add(ModBlocks.STAINLESS_STEEL_BLOCK);
+
+                        entries.add(ModBlocks.PINK_GARNET_LAMP);
                     }).build());
 
 // tab group end

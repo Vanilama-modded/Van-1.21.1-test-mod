@@ -41,6 +41,14 @@
   "block.van.stainless_steel_block": "Block of Stainless Steel",
   "item.van.stainless_steel_ingot": "Stainless Steel Ingot",
 
-  "block.van.pink_garnet_lamp": "Pink Garnet Lamp"
+  "block.van.pink_garnet_lamp": "Pink Garnet Lamp",
+
+  "item.van.pink_garnet_sword": "Pink Garnet Sword",
+  "item.van.pink_garnet_pickaxe": "Pink Garnet Pickaxe",
+  "item.van.pink_garnet_shovel": "Pink Garnet Shovel",
+  "item.van.pink_garnet_axe": "Pink Garnet Axe",
+  "item.van.pink_garnet_hoe": "Pink Garnet Hoe",
+
+  "item.van.pink_garnet_hammer": "Pink Garnet Hammer"
 
 }

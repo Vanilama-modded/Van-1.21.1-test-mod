@@ -10,6 +10,7 @@ import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import net.vanilama.van.Van;
 import net.vanilama.van.block.ModBlocks;
+import net.vanilama.van.item.custom.HammerItem;
 
 public class ModItemGroups {
     public static final ItemGroup PINK_GARNET_ITEMS_GROUP = Registry.register(Registries.ITEM_GROUP,
@@ -25,6 +26,15 @@ public class ModItemGroups {
                         entries.add(ModItems.STARLIGHT_ASHES);
 
                         entries.add(ModItems.STAINLESS_STEEL_INGOT);
+
+
+                        entries.add(ModItems.PINK_GARNET_SWORD);
+                        entries.add(ModItems.PINK_GARNET_PICKAXE);
+                        entries.add(ModItems.PINK_GARNET_SHOVEL);
+                        entries.add(ModItems.PINK_GARNET_AXE);
+                        entries.add(ModItems.PINK_GARNET_HOE);
+
+                        entries.add(ModItems.PINK_GARNET_HAMMER);
                     }).build());
 
 //tab group start

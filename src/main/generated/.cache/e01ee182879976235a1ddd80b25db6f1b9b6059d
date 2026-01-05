@@ -1,4 +1,5 @@
-// 1.21.1	2026-01-04T22:09:06.1116424	Van/Tags for minecraft:block
+// 1.21.1	2026-01-05T10:33:30.9248537	Van/Tags for minecraft:block
+32b13946c4cd1f944b029659ccce5fcb2adad4ff data\van\tags\block\needs_pink_garnet_tool.json
 91a9b3153047fdbd4c069db7e16e6969bb465e83 data\minecraft\tags\block\fences.json
 2afcf0b964198fbc652eb848b5b1d17397b64f82 data\minecraft\tags\block\walls.json
 f5f4495664ce9c14bc9016e2de09f726528e4e39 data\minecraft\tags\block\mineable\pickaxe.json

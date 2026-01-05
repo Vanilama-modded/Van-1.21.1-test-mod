@@ -1,4 +1,4 @@
-// 1.21.1	2026-01-05T14:58:42.495686	Van/Model Definitions
+// 1.21.1	2026-01-05T18:03:04.9378354	Van/Model Definitions
 39fb3bd91593b3d118bff73db94b1a55add8a3dc assets\van\models\item\pink_garnet_chestplate_gold_trim.json
 9383605ea3db49a6f2659dbe7b60ea6e0815c701 assets\van\models\item\pink_garnet_axe.json
 7bd93724521b10918f6fb44a5c33335d1a34eaef assets\van\models\item\pink_garnet_helmet_iron_trim.json
@@ -78,8 +78,8 @@ c752a4f15cee1bfaa609c939b8c64d6be23436a6 assets\van\blockstates\pink_garnet_ore.
 1858bc5a173a0148e7481be47da45348191bc100 assets\van\models\item\pink_garnet_shovel.json
 d42ace8c54633f77798a2a12cc2b87fef791b46d assets\van\models\item\pink_garnet_boots_iron_trim.json
 a369b30469abf33a012c543bc91639522b658e3b assets\van\models\item\pink_garnet_helmet_quartz_trim.json
-733ab8dcfcbede5228e27385d750991437bfd1f2 assets\van\models\item\pink_garnet_lamp.json
 a2fef2d39270f49879e1a35f03c02a9712ae4ec7 assets\van\models\block\pink_garnet_door_top_right.json
+733ab8dcfcbede5228e27385d750991437bfd1f2 assets\van\models\item\pink_garnet_lamp.json
 0afecdf9b36d1d3643356903298c78eaeeb9e575 assets\van\models\item\pink_garnet_boots_amethyst_trim.json
 c55d547fdd4d3381d0b7b334adbf0984adc60dd3 assets\van\models\block\pink_garnet_slab_top.json
 6e426622c6bb9af83217b24433ac076273fe567b assets\van\models\block\pink_garnet_door_bottom_left.json
@@ -126,6 +126,6 @@ ce8fd58b4195f5eb0f9c4ce6762f5a1ee7f92f50 assets\van\blockstates\pink_garnet_trap
 18c5ff5b3d351aab72f2618b749231690b581050 assets\van\models\block\stainless_steel_block.json
 1a671455fe936f540941f801b9259fbe447d57dd assets\van\models\item\pink_garnet_leggings_emerald_trim.json
 b4f95e95acf63f61b8f03b4b95909fa6b71471a5 assets\van\blockstates\pink_garnet_lamp.json
-91eaba3012c0d50b1dc849d1f0926fd88afe2e51 assets\van\models\item\pink_garnet_door.json
 5e60b0569fe282bb7b3ad5f1698c9d9d83323d57 assets\van\models\block\pink_garnet_wall_side_tall.json
+91eaba3012c0d50b1dc849d1f0926fd88afe2e51 assets\van\models\item\pink_garnet_door.json
 90e9583f99cd247f91738a0f4f7f9195ecd66d66 assets\van\models\item\pink_garnet_boots_copper_trim.json

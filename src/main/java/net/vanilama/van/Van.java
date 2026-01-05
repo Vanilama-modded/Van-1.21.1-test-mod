@@ -28,5 +28,7 @@ public class Van implements ModInitializer {
 		FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
 
 		PlayerBlockBreakEvents.BEFORE.register(new HammerUsageEvent());
+
+
 	}
 }

@@ -106,6 +106,8 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .criterion(hasItem(Items.STICK), conditionsFromItem(Items.STICK))
                 .offerTo(recipeExporter);
 
+        offerSmithingTrimRecipe(recipeExporter, ModItems.VAN_SMITHING_TEMPLATE, Identifier.of(Van.MOD_ID, "van"));
+
 
     }
 }

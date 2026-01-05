@@ -49,6 +49,17 @@
   "item.van.pink_garnet_axe": "Pink Garnet Axe",
   "item.van.pink_garnet_hoe": "Pink Garnet Hoe",
 
-  "item.van.pink_garnet_hammer": "Pink Garnet Hammer"
+  "item.van.pink_garnet_hammer": "Pink Garnet Hammer",
+
+  "item.van.pink_garnet_helmet": "Pink Garnet Helmet",
+  "item.van.pink_garnet_chestplate": "Pink Garnet Chestplate",
+  "item.van.pink_garnet_leggings": "Pink Garnet Leggings",
+  "item.van.pink_garnet_boots": "Pink Garnet Boots",
+
+  "item.van.pink_garnet_horse_armor": "Pink Garnet Horse Armor",
+
+  "item.van.van_armor_trim_smithing_template": "Van Armor Trim",
+  "trim_material.van.pink_garnet": "Pink Garnet Material",
+  "trim_pattern.van.van": "Van Armor Pattern"
 
 }

@@ -5,11 +5,13 @@ import net.minecraft.item.*;
 import net.minecraft.item.tooltip.TooltipType;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
+import net.minecraft.resource.featuretoggle.FeatureFlags;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import net.vanilama.van.Van;
 import net.vanilama.van.item.custom.ChiselItem;
 import net.vanilama.van.item.custom.HammerItem;
+import net.vanilama.van.item.custom.ModArmorItem;
 
 import java.util.List;
 
@@ -58,6 +60,30 @@ public class ModItems {
             new HammerItem(ModToolMaterials.PINK_GARNET, new Item.Settings()
                     .attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.PINK_GARNET, 7, -3.4f))));
 
+
+
+    public static final Item PINK_GARNET_HELMET = registerItem("pink_garnet_helmet",
+            new ModArmorItem(ModArmorMaterials.PINK_GARNET_ARMOR_MATERIAL, ArmorItem.Type.HELMET, new Item.Settings()
+                    .maxDamage(ArmorItem.Type.HELMET.getMaxDamage(15))));
+
+    public static final Item PINK_GARNET_CHESTPLATE = registerItem("pink_garnet_chestplate",
+            new ArmorItem(ModArmorMaterials.PINK_GARNET_ARMOR_MATERIAL, ArmorItem.Type.CHESTPLATE, new Item.Settings()
+                    .maxDamage(ArmorItem.Type.CHESTPLATE.getMaxDamage(15))));
+
+    public static final Item PINK_GARNET_LEGGINGS = registerItem("pink_garnet_leggings",
+            new ArmorItem(ModArmorMaterials.PINK_GARNET_ARMOR_MATERIAL, ArmorItem.Type.LEGGINGS, new Item.Settings()
+                    .maxDamage(ArmorItem.Type.LEGGINGS.getMaxDamage(15))));
+
+    public static final Item PINK_GARNET_BOOTS = registerItem("pink_garnet_boots",
+            new ArmorItem(ModArmorMaterials.PINK_GARNET_ARMOR_MATERIAL, ArmorItem.Type.BOOTS, new Item.Settings()
+                    .maxDamage(ArmorItem.Type.BOOTS.getMaxDamage(15))));
+
+
+    public static final Item PINK_GARNET_HORSE_ARMOR = registerItem("pink_garnet_horse_armor",
+            new AnimalArmorItem(ModArmorMaterials.PINK_GARNET_ARMOR_MATERIAL,AnimalArmorItem.Type.EQUESTRIAN, false, new Item.Settings().maxCount(1)));
+
+    public static final Item VAN_SMITHING_TEMPLATE = registerItem("van_armor_trim_smithing_template",
+            SmithingTemplateItem.of(Identifier.of(Van.MOD_ID, "van"), FeatureFlags.VANILLA));
 
     //Items above here
 

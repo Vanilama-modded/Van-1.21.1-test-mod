@@ -1,0 +1,8 @@
+{
+  "asset_id": "van:van",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.van.van"
+  },
+  "template_item": "van:van_armor_trim_smithing_template"
+}

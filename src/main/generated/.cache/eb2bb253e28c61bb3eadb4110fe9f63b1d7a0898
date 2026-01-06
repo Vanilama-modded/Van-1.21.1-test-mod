@@ -1,4 +1,4 @@
-// 1.21.1	2026-01-06T10:09:32.1337704	Van/Block Loot Tables
+// 1.21.1	2026-01-06T11:08:44.3382725	Van/Block Loot Tables
 9f166e8a2cc7939bb9c08d3bf6ec0d44d46139e2 data\van\loot_table\blocks\pink_garnet_block.json
 9741b85c59081001666e3b326445356fb1ae6802 data\van\loot_table\blocks\pink_garnet_slab.json
 5940ba9df93eea700b6e5de412c1c0d044b031f0 data\van\loot_table\blocks\pink_garnet_wall.json
@@ -6,8 +6,8 @@
 d163cf621a5e25943c080240535b1707c14d7ffd data\van\loot_table\blocks\pink_garnet_stairs.json
 f5f3a8812f3d6d524aa94d26f8880cd987f8e36f data\van\loot_table\blocks\pink_garnet_fence_gate.json
 e0685e846904f52ef6c3231c5bc6682919f59912 data\van\loot_table\blocks\pink_garnet_trapdoor.json
-d15966ea70be8c9751b94b87ad1ef55ea62777c3 data\van\loot_table\blocks\pink_garnet_pressure_plate.json
 5228c6f0fede861ee9ff2eeff2eb17ecb9351e33 data\van\loot_table\blocks\pink_garnet_ore.json
+d15966ea70be8c9751b94b87ad1ef55ea62777c3 data\van\loot_table\blocks\pink_garnet_pressure_plate.json
 89e9387f933fd5a58aef9ad2dc20fd7b3d131d15 data\van\loot_table\blocks\magic_block.json
 32892acf372624067430ad606c69041cd32292cc data\van\loot_table\blocks\raw_pink_garnet_block.json
 1eaaac38b4c38729ee61fe9ea14b6b3215c2896b data\van\loot_table\blocks\pink_garnet_fence.json

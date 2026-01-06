@@ -37,7 +37,7 @@ public class ModBlocks {
 
     public static final Block MAGIC_BLOCK = registerBlock("pink_garnet_deepslate_ore",
             new Block(AbstractBlock.Settings.create().strength(1.0F)
-                    .requiresTool().mapColor(MapColor.PINK).sounds(ModSounds.MAGIC_BLOCK_SOUNDS)));
+                    .requiresTool().sounds(ModSounds.MAGIC_BLOCK_SOUNDS).mapColor(MapColor.PINK)));
 
 
 

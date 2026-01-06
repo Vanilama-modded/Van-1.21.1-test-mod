@@ -32,7 +32,7 @@ public class Van implements ModInitializer {
 		ModBlocks.registerBlocks();
 
 		ModDataComponentTypes.registerDataComponentTypes();
-		ModSounds.registerSounds();
+//		ModSounds.registerSounds();
 
 		FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
 

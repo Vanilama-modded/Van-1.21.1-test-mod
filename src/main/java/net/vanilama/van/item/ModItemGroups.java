@@ -1,17 +1,18 @@
 package net.vanilama.van.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
-import net.minecraft.block.Blocks;
+import net.minecraft.component.type.PotionContentsComponent;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
+import net.minecraft.item.Items;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import net.vanilama.van.Van;
 import net.vanilama.van.block.ModBlocks;
-import net.vanilama.van.item.custom.HammerItem;
-import net.vanilama.van.potion.ModPotions;
+
+import static net.vanilama.van.potion.ModPotions.SLIMEY_POTION;
 
 public class ModItemGroups {
     public static final ItemGroup PINK_GARNET_ITEMS_GROUP = Registry.register(Registries.ITEM_GROUP,
@@ -50,6 +51,10 @@ public class ModItemGroups {
 
                         entries.add(ModItems.BAR_BRAWL_MUSIC_DISC);
 
+                        entries.add(PotionContentsComponent.createStack(Items.POTION, SLIMEY_POTION));
+                        entries.add(PotionContentsComponent.createStack(Items.SPLASH_POTION, SLIMEY_POTION));
+                        entries.add(PotionContentsComponent.createStack(Items.LINGERING_POTION, SLIMEY_POTION));
+                        entries.add(PotionContentsComponent.createStack(Items.TIPPED_ARROW, SLIMEY_POTION));
 
                     }).build());
 

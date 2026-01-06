@@ -1,7 +1,7 @@
-// 1.21.1	2026-01-06T19:25:22.1879601	Van/Block Loot Tables
+// 1.21.1	2026-01-06T20:40:30.3354892	Van/Block Loot Tables
 9f166e8a2cc7939bb9c08d3bf6ec0d44d46139e2 data\van\loot_table\blocks\pink_garnet_block.json
-9741b85c59081001666e3b326445356fb1ae6802 data\van\loot_table\blocks\pink_garnet_slab.json
 3b817f818a0dc68f0fd8df49bd75c20c6ab6fba6 data\van\loot_table\blocks\stainless_steel_block.json
+9741b85c59081001666e3b326445356fb1ae6802 data\van\loot_table\blocks\pink_garnet_slab.json
 5940ba9df93eea700b6e5de412c1c0d044b031f0 data\van\loot_table\blocks\pink_garnet_wall.json
 49161f33410016a7a4ba155d14f391fd8639c66c data\van\loot_table\blocks\pink_garnet_deepslate_ore.json
 d163cf621a5e25943c080240535b1707c14d7ffd data\van\loot_table\blocks\pink_garnet_stairs.json

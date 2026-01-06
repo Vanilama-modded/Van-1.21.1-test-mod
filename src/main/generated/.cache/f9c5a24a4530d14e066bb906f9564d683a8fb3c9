@@ -1,4 +1,4 @@
-// 1.21.1	2026-01-06T19:25:22.1919594	Van/Model Definitions
+// 1.21.1	2026-01-06T20:40:30.3384884	Van/Model Definitions
 39fb3bd91593b3d118bff73db94b1a55add8a3dc assets\van\models\item\pink_garnet_chestplate_gold_trim.json
 9383605ea3db49a6f2659dbe7b60ea6e0815c701 assets\van\models\item\pink_garnet_axe.json
 7bd93724521b10918f6fb44a5c33335d1a34eaef assets\van\models\item\pink_garnet_helmet_iron_trim.json
@@ -118,8 +118,8 @@ cfd92f4d772d84fe8512fb0586f0989d3f3f83d1 assets\van\models\block\magic_block.jso
 c76c6a721e3ea0cd55b8c506b855d61941419e6e assets\van\models\block\pink_garnet_door_bottom_left_open.json
 c9b6eb4bf0d09216df30484f5cb54a95c76966ed assets\van\blockstates\pink_garnet_button.json
 c54703e94d46c787c6ce8c42fea1dbb4f037e382 assets\van\models\block\pink_garnet_block.json
-9584fc11fda45d7679432d6a7c4d9097455c42e9 assets\van\models\item\pink_garnet_chestplate_redstone_trim.json
 baea264655913ec38034855c02f49a3c7790d2e2 assets\van\models\item\starlight_ashes.json
+9584fc11fda45d7679432d6a7c4d9097455c42e9 assets\van\models\item\pink_garnet_chestplate_redstone_trim.json
 b34e9e0c92045867fddba590e68a915bc2b2ef9b assets\van\models\block\pink_garnet_button.json
 452f2ad73a40a38df64d04b7b8d4b6216da18fb3 assets\van\models\block\pink_garnet_fence_inventory.json
 ce8fd58b4195f5eb0f9c4ce6762f5a1ee7f92f50 assets\van\blockstates\pink_garnet_trapdoor.json

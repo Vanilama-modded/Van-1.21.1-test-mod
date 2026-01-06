@@ -44,6 +44,8 @@ public class ModItemGroups {
                         entries.add(ModItems.PINK_GARNET_HORSE_ARMOR);
 
                         entries.add(ModItems.VAN_SMITHING_TEMPLATE);
+
+                        entries.add(ModItems.VAN_BOW);
                     }).build());
 
 //tab group start

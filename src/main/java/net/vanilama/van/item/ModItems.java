@@ -85,6 +85,9 @@ public class ModItems {
     public static final Item VAN_SMITHING_TEMPLATE = registerItem("van_armor_trim_smithing_template",
             SmithingTemplateItem.of(Identifier.of(Van.MOD_ID, "van"), FeatureFlags.VANILLA));
 
+    public static final Item VAN_BOW = registerItem("van_bow",
+            new BowItem(new Item.Settings().maxDamage(500)));
+
     //Items above here
 
     private static Item registerItem(String name, Item item) {

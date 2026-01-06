@@ -60,6 +60,8 @@
 
   "item.van.van_armor_trim_smithing_template": "Van Armor Trim",
   "trim_material.van.pink_garnet": "Pink Garnet Material",
-  "trim_pattern.van.van": "Van Armor Pattern"
+  "trim_pattern.van.van": "Van Armor Pattern",
+
+  "item.van.van_bow": "Van Bow"
 
 }

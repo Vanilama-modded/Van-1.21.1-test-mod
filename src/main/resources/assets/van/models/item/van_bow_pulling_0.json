@@ -1,0 +1,6 @@
+{
+    "parent": "van:item/van_bow",
+    "textures": {
+        "layer0": "van:item/van_bow_pulling_0"
+    }
+}

@@ -23,6 +23,11 @@ public class ModSounds {
             MAGIC_BLOCK_BREAK, MAGIC_BLOCK_STEP, MAGIC_BLOCK_PLACE, MAGIC_BLOCK_HIT, MAGIC_BLOCK_FALL);
 
 
+    public static final SoundEvent BAR_BRAWL = registerSoundEvent("bar_brawl");
+    public static final RegistryKey<JukeboxSong> BAR_BRAWL_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Van.MOD_ID, "bar_brawl"));
+
+    //sounds above here
 
     private static SoundEvent registerSoundEvent(String name) {
         Identifier id = Identifier.of(Van.MOD_ID, name);

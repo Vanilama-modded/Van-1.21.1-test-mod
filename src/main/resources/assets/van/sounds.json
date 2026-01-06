@@ -34,5 +34,13 @@
     "sounds": [
       "van:magic_block_fall"
     ]
+  },
+  "bar_brawl": {
+    "sounds": [
+      {
+        "name": "van:bar_brawl",
+        "stream": true
+      }
+    ]
   }
 }

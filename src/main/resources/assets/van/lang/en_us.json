@@ -62,6 +62,16 @@
   "trim_material.van.pink_garnet": "Pink Garnet Material",
   "trim_pattern.van.van": "Van Armor Pattern",
 
-  "item.van.van_bow": "Van Bow"
+  "item.van.van_bow": "Van Bow",
+
+  "item.van.bar_brawl_music_disc": "Bar Brawl Music Disc",
+  "item.van.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+
+  "effect.van.slimey": "Slimey",
+
+  "item.minecraft.potion.effect.slimey_potion": "Slimey Potion",
+  "item.minecraft.splash_potion.effect.slimey_potion": "Slimey Splash Potion",
+  "item.minecraft.lingering_potion.effect.slimey_potion": "Slimey Lingering Potion",
+  "item.minecraft.tipped_arrow.effect.slimey_potion": "Slimey Tipped Arrow"
 
 }

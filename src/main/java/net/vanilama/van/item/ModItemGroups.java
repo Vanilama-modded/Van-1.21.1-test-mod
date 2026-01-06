@@ -11,6 +11,7 @@ import net.minecraft.util.Identifier;
 import net.vanilama.van.Van;
 import net.vanilama.van.block.ModBlocks;
 import net.vanilama.van.item.custom.HammerItem;
+import net.vanilama.van.potion.ModPotions;
 
 public class ModItemGroups {
     public static final ItemGroup PINK_GARNET_ITEMS_GROUP = Registry.register(Registries.ITEM_GROUP,
@@ -46,6 +47,10 @@ public class ModItemGroups {
                         entries.add(ModItems.VAN_SMITHING_TEMPLATE);
 
                         entries.add(ModItems.VAN_BOW);
+
+                        entries.add(ModItems.BAR_BRAWL_MUSIC_DISC);
+
+
                     }).build());
 
 //tab group start

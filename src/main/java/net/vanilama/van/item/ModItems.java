@@ -12,6 +12,7 @@ import net.vanilama.van.Van;
 import net.vanilama.van.item.custom.ChiselItem;
 import net.vanilama.van.item.custom.HammerItem;
 import net.vanilama.van.item.custom.ModArmorItem;
+import net.vanilama.van.sound.ModSounds;
 
 import java.util.List;
 
@@ -87,6 +88,11 @@ public class ModItems {
 
     public static final Item VAN_BOW = registerItem("van_bow",
             new BowItem(new Item.Settings().maxDamage(500)));
+
+    public static final Item BAR_BRAWL_MUSIC_DISC = registerItem("bar_brawl_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.BAR_BRAWL_KEY).maxCount(1)));
+
+
 
     //Items above here
 

@@ -1,11 +1,11 @@
-// 1.21.1	2026-01-06T11:11:57.0923363	Van/Recipes
+// 1.21.1	2026-01-06T15:56:54.1684118	Van/Recipes
 003c9d63702e06d2a7f30c8ea44b7fcf000e8c19 data\van\recipe\pink_garnet_from_blasting_pink_garnet_ore.json
-bef583a69570f3329906636188a39a2fa2c1e7ec data\van\advancement\recipes\tools\pink_garnet_axe.json
 0875828300c458fcb12bb60dab29ee78e8a6fd89 data\van\advancement\recipes\tools\pink_garnet_hoe.json
+bef583a69570f3329906636188a39a2fa2c1e7ec data\van\advancement\recipes\tools\pink_garnet_axe.json
 f9c9c497719e09b3af7e54090a3d2d0c797027cc data\van\recipe\pink_garnet_from_smelting_raw_pink_garnet.json
 dc6f82545ab477905d5ffd9b947ea0f7fa93047e data\van\advancement\recipes\misc\pink_garnet_from_blasting_raw_pink_garnet.json
-d0b09264778903e389bfcc060fa8e9cbe91e43df data\van\recipe\pink_garnet_axe.json
 955a8dbbc438ac651e1b528e6340111e31f83edc data\van\recipe\pink_garnet_hoe.json
+d0b09264778903e389bfcc060fa8e9cbe91e43df data\van\recipe\pink_garnet_axe.json
 07ffd00bb7465501e6a0e5b11c05f11abc1d75d2 data\van\advancement\recipes\misc\raw_pink_garnet_from_magic_block.json
 8b3aaaa9c7893ff0e9b5fbc9bd8dc3f14529cbd6 data\van\advancement\recipes\misc\pink_garnet_from_smelting_pink_garnet_ore.json
 02271747f0bc2a78d276643ce4e105c93d2571ed data\van\advancement\recipes\misc\raw_pink_garnet_block.json

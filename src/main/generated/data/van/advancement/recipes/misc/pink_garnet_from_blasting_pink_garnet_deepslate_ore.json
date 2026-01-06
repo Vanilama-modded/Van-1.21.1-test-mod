@@ -1,11 +1,11 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_magic_block": {
+    "has_pink_garnet_deepslate_ore": {
       "conditions": {
         "items": [
           {
-            "items": "van:magic_block"
+            "items": "van:pink_garnet_deepslate_ore"
           }
         ]
       },
@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "van:pink_garnet_from_smelting_magic_block"
+        "recipe": "van:pink_garnet_from_blasting_pink_garnet_deepslate_ore"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -21,12 +21,12 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_magic_block"
+      "has_pink_garnet_deepslate_ore"
     ]
   ],
   "rewards": {
     "recipes": [
-      "van:pink_garnet_from_smelting_magic_block"
+      "van:pink_garnet_from_blasting_pink_garnet_deepslate_ore"
     ]
   }
 }

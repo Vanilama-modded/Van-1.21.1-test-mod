@@ -28,14 +28,14 @@ public class ModBlocks {
             new Block(AbstractBlock.Settings.create().strength(1.0F)
                     .requiresTool().sounds(BlockSoundGroup.STONE).mapColor(MapColor.PINK)));
 
-    public static final Block PINK_GARNET_DEEPSLATE_ORE = registerBlock("magic_block",
+    public static final Block PINK_GARNET_DEEPSLATE_ORE = registerBlock("pink_garnet_deepslate_ore",
             new MagicBlock(AbstractBlock.Settings.create().strength(1.0F)
-                    .requiresTool()));
+                    .requiresTool().sounds(BlockSoundGroup.DEEPSLATE).mapColor(MapColor.GRAY)));
 
 
 
 
-    public static final Block MAGIC_BLOCK = registerBlock("pink_garnet_deepslate_ore",
+    public static final Block MAGIC_BLOCK = registerBlock("magic_block",
             new Block(AbstractBlock.Settings.create().strength(1.0F)
                     .requiresTool().sounds(ModSounds.MAGIC_BLOCK_SOUNDS).mapColor(MapColor.PINK)));
 

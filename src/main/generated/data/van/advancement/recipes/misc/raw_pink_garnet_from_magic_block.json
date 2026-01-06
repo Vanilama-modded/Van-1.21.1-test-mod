@@ -1,11 +1,11 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_pink_garnet_deepslate_ore": {
+    "has_magic_block": {
       "conditions": {
         "items": [
           {
-            "items": "van:pink_garnet_deepslate_ore"
+            "items": "van:magic_block"
           }
         ]
       },
@@ -21,7 +21,7 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_pink_garnet_deepslate_ore"
+      "has_magic_block"
     ]
   ],
   "rewards": {

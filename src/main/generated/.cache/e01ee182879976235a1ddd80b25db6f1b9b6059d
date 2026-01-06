@@ -1,7 +1,7 @@
-// 1.21.1	2026-01-06T15:56:54.167872	Van/Tags for minecraft:block
+// 1.21.1	2026-01-06T16:15:56.2551507	Van/Tags for minecraft:block
 32b13946c4cd1f944b029659ccce5fcb2adad4ff data\van\tags\block\needs_pink_garnet_tool.json
 91a9b3153047fdbd4c069db7e16e6969bb465e83 data\minecraft\tags\block\fences.json
 2afcf0b964198fbc652eb848b5b1d17397b64f82 data\minecraft\tags\block\walls.json
-f5f4495664ce9c14bc9016e2de09f726528e4e39 data\minecraft\tags\block\mineable\pickaxe.json
-0ebba553987a7714586c90278fd4fdd91775f7bf data\minecraft\tags\block\needs_iron_tool.json
+e78bf861d1aa7525a7dc1ca67c260f859a273b79 data\minecraft\tags\block\mineable\pickaxe.json
+d312a55ee874e9fdb49246f9435faf02a0970cee data\minecraft\tags\block\needs_iron_tool.json
 738f68449dc5fa2461b1d1216d536d3a19a081f2 data\minecraft\tags\block\fence_gates.json

@@ -1,11 +1,11 @@
 {
-  "type": "minecraft:blasting",
+  "type": "minecraft:smelting",
   "category": "misc",
   "cookingtime": 200,
   "experience": 0.25,
   "group": "pink_garnet",
   "ingredient": {
-    "item": "van:magic_block"
+    "item": "van:pink_garnet_deepslate_ore"
   },
   "result": {
     "id": "van:pink_garnet"

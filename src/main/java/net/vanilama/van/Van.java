@@ -24,6 +24,8 @@ import net.vanilama.van.util.HammerUsageEvent;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+	// ep 28
+
 public class Van implements ModInitializer {
 	public static final String MOD_ID = "van";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
